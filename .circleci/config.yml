@@ -6,7 +6,11 @@ jobs:
       - image: circleci/ruby:2.4.1-node-browsers
 
     steps:
-      - checkout      
+      - checkout   
+      
+       - run:
+          name: build dependencies
+          command: bundle install
 
       - run:
           name: build the jekyll site
