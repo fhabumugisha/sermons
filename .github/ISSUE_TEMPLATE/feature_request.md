@@ -12,5 +12,5 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 
 **Expected Behavoir**
 
-**Additional context**
+**Additional Context**
 Add any other context or screenshots about the feature request here.
