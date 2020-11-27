@@ -9,7 +9,6 @@ issueConfigs:
   - "Expected Behavior"
   - "Current Behavior"
  
-  - "Detailed Description"
 - content:
 # Example 2: feature request
   - "Use Case"
